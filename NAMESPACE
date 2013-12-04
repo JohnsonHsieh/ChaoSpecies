@@ -1,0 +1,3 @@
+export(ChaoSpecies)
+export(SpeciesAbundance) 
+export(SpeciesIncidence)
